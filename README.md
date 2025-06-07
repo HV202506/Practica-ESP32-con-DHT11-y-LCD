@@ -27,6 +27,7 @@ Para realizar esta practica se necesito
 1. Abrir la terminal del codigo:
 
 Codigo empleado:
+
 ```
 #include "DHTesp.h"
 #include <LiquidCrystal_I2C.h>
@@ -96,6 +97,7 @@ void loop() {
 2. Instalar la libreria de DHT senson library for ESPx y en la siguiente imagen se muestran las librerias empleadas.
 
 ![](https://github.com/HV202506/Practica-ESP32-con-DHT11-y-LCD/blob/main/LIBRERIAS.png?raw=true)
+
 3. Hacer las concexiones del DHT11 y la pantalla LCD con el ESP32  tal cual se muestra la siguiente imagen.
 
 ![](https://github.com/HV202506/Practica-ESP32-con-DHT11-y-LCD/blob/main/conexion.png?raw=true)
@@ -120,12 +122,15 @@ Una vez realizados los pasos anteriores deberas visualizar los elementos solicit
 ![](https://github.com/HV202506/Practica-ESP32-con-DHT11-y-LCD/blob/main/Diplomado.png?raw=true)
 
 ##Pantalla 2:
+
 ![](https://github.com/user-attachments/assets/4e412b30-b40c-45be-a267-39b58cb14dea)
 
 ##Pantalla 3:
+
 ![image](https://github.com/user-attachments/assets/fddf7ac1-e135-4109-9730-7128a510173e)
 
 ##Pantalla 4:
+
 ![image](https://github.com/user-attachments/assets/c605a898-812f-4040-8882-b68b450a98da)
 
 
