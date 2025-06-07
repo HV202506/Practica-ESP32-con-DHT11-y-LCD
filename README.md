@@ -117,19 +117,19 @@ void loop() {
 
 Una vez realizados los pasos anteriores deberas visualizar los elementos solicitados en la pantalla LCD
 
-##Pantalla 1:
+## Pantalla 1:
 
 ![](https://github.com/HV202506/Practica-ESP32-con-DHT11-y-LCD/blob/main/Diplomado.png?raw=true)
 
-##Pantalla 2:
+## Pantalla 2:
 
 ![](https://github.com/user-attachments/assets/4e412b30-b40c-45be-a267-39b58cb14dea)
 
-##Pantalla 3:
+## Pantalla 3:
 
 ![image](https://github.com/user-attachments/assets/fddf7ac1-e135-4109-9730-7128a510173e)
 
-##Pantalla 4:
+## Pantalla 4:
 
 ![image](https://github.com/user-attachments/assets/c605a898-812f-4040-8882-b68b450a98da)
 
