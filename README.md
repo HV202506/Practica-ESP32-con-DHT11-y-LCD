@@ -95,11 +95,10 @@ void loop() {
 
 2. Instalar la libreria de DHT senson library for ESPx y en la siguiente imagen se muestran las librerias empleadas.
 
-IMAGEN LIBRERIAS------------------------------------------------
-
+![](https://github.com/HV202506/Practica-ESP32-con-DHT11-y-LCD/blob/main/LIBRERIAS.png?raw=true)
 3. Hacer las concexiones del DHT11 y la pantalla LCD con el ESP32  tal cual se muestra la siguiente imagen.
 
-IMAGEN DE CONEXIONES-------------------------------------------
+![](https://github.com/HV202506/Practica-ESP32-con-DHT11-y-LCD/blob/main/conexion.png?raw=true)
 
 ## Librerias empleadas
 1. DHT sensor library for ESPx
@@ -117,16 +116,17 @@ IMAGEN DE CONEXIONES-------------------------------------------
 Una vez realizados los pasos anteriores deberas visualizar los elementos solicitados en la pantalla LCD
 
 ##Pantalla 1:
-IMAGEN DIPLOMADO---------------------
+
+![](https://github.com/HV202506/Practica-ESP32-con-DHT11-y-LCD/blob/main/Diplomado.png?raw=true)
 
 ##Pantalla 2:
-IMAGEN nombre y carrera---------------------
+![](https://github.com/user-attachments/assets/4e412b30-b40c-45be-a267-39b58cb14dea)
 
 ##Pantalla 3:
-IMAGEN fecha---------------------
+![image](https://github.com/user-attachments/assets/fddf7ac1-e135-4109-9730-7128a510173e)
 
 ##Pantalla 4:
-IMAGEN temperatura y humedad---------------------
+![image](https://github.com/user-attachments/assets/c605a898-812f-4040-8882-b68b450a98da)
 
 
 # Créditos
